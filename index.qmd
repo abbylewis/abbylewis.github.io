@@ -7,14 +7,19 @@ title-block-style: none
 
 <br>
 
-# Abigail Lewis, Ph.D.  
-<span style ="font-size:12pt">Biogeochemistry, data science, ecological forecasting</span>
+# Abigail Lewis 
+<span style ="font-size:12pt">Ecosystem ecology, data science, ecological forecasting</span>
 
 ![](images/marsh_square.jpg){style="float:left; padding-right:10px; width:200px; alt:'Abby Lewis at the Global Change Research Wetland'"}
 
-Abigail Lewis (she/her) is an ecosystem ecologist and [Smithsonian Climate Change Fellow](https://serc.si.edu/staff/abigail-lewis). Her research aims to characterize the effects of climate change on aquatic ecosystems and vice versa—how these changes may feed back to alter the global carbon cycling processes that shape Earth’s climate. At the Smithsonian Environmental Research Center, Abby is developing forecasts of methane emission from wetlands across the coasts of the contiguous United States.
+Abigail Lewis (she/her) is an ecosystem ecologist and [Smithsonian Climate Change Fellow](https://serc.si.edu/staff/abigail-lewis). Her research combines field studies, global data analysis, and ecological forecasting to predict the impacts of global change on aquatic ecosystems. At the Smithsonian Environmental Research Center, Abby is developing forecasts of methane emission from coastal wetlands to inform marsh restoration and carbon budgeting efforts. 
 
 <div style="clear:left"></div>
+<br>
+Education:
+<ul>
+<li><span class="asl">Ph.D. in Biological Sciences</span>, Virginia Tech (awarded 2024)</li>
+<li><span class="asl">B.A. in Biology</span>, Pomona College (awarded 2024)</li></ul>
 
 ## Contact
 

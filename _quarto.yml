@@ -8,7 +8,7 @@ project:
 
 website:
   title: "Abigail Lewis"
-  #site-url: https://abbylewis.github.io
+  site-url: https://abbylewis.github.io
   description: "Personal website for Abigail (Abby) Lewis, a postdoctoral researcher at the Smithsonian Environmental Research Center"
   open-graph: true
   twitter-card: true
