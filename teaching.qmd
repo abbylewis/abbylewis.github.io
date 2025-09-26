@@ -26,13 +26,13 @@ keywords:
   <li><b>Advanced R Programming</b> co-instructor of record at Virginia Tech (Spring 2023)</li>
   <ul>
       <li>I designed and taught a graduate seminar on advanced programming in R (13 students) to help students better leverage computational approaches in their research.</li></ul>
-  <li><b>Principles of Biology Laboratory</b> Teaching Assistant at Virginia Tech (Spring 2022)</li>
+  <li><b>Principles of Biology Laboratory</b> teaching assistant at Virginia Tech (Spring 2022)</li>
   <ul><li>I taught three lab sections with 7–24 students each.</li></ul>
-  <li><b>Ecology for Non-Majors</b> teaching Assistant at Pomona College (Fall 2018)</li>
+  <li><b>Ecology for Non-Majors</b> teaching assistant at Pomona College (Fall 2018)</li>
   <ul></ul>
-  <li><b>Introduction to Ecology and Evolution</b> writing Mentor at Pomona College (Spring 2018)</li>
+  <li><b>Introduction to Ecology and Evolution</b> writing mentor at Pomona College (Spring 2018)</li>
   <ul></ul>
-  <li><b>Bilingual (Spanish and English) kindergarten</b> volunteer teaching assistant at Mountain View Elementary School (Spring 2018)</li>
+  <li><b>Bilingual (Spanish and English) kindergarten</b> teaching assistant at Mountain View Elementary School (Spring 2018)</li>
 </ul>
 
 ## Outreach
