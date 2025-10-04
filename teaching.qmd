@@ -49,7 +49,6 @@ I worked with the National Park Service to create a set of communications materi
 
 <div style="clear:right"></div>
 
-#############################
 ---
 
 <a href="https://doi.org/10.15695/jstem/v6i1.14">
@@ -62,7 +61,6 @@ In our flipped science fair, we gave kids the power to judge graduate student sc
 
 <div style="clear:left"></div>
 
-#############################
 ---
 
 <a href="https://globalchange.vt.edu/news/news-stories/2020-21-news/new-educational-outreach-stream-box.html">
@@ -75,7 +73,6 @@ When the COVID-19 pandemic cancelled all in-person science outreach, I worked th
 
 <div style="clear:right"></div>
 
-#############################
 ---
 
 <a href="https://www.youtube.com/watch?v=bP4h2Nr5va8&list=PLjNPzLCLK0Ss0SYc4fdejp3nt8d0AtTfa">
@@ -88,7 +85,6 @@ GirlsLaunch! is a program at Virginia Tech that aims to combat gender biases by 
 
 <div style="clear:left"></div>
 
-#############################
 ---
 
 ![](images/LOGO_LEAF_sm.webp){style="float:right; padding-right:10px; width:200px; alt:'envirobites logo, including a leaf with a bite taken out of it'"}
