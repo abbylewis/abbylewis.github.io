@@ -19,7 +19,7 @@ keywords:
 
 ## In review
 <ol reversed start = 32>
-<li><span class="asl">Lewis, A. S. L.</span>, D. Mercado-Bettin, and C. C. Carey. Ecological memory contributes to a spatial mismatch in water quality trends between the surface and bottom waters of 382 temperate lakes. In revision at <i>Ecology Letters</i>. \[[preprint](https://doi.org/10.22541/au.171812883.31377074/v1)\]</li>
+<li><span class="asl">Lewis, A. S. L.</span>, D. Mercado-Bettin, and C. C. Carey. Ecological memory contributes to a spatial mismatch in water quality trends between the surface and bottom waters of 382 temperate lakes. In revision at <i>Ecology Letters</i>. \[[preprint](https://doi.org/10.22541/au.171812883.31377074/v2)\]</li>
 <br>
 <li><span class="asl">Lewis, A. S. L.</span>, D. C. Richardson, D. W. Howard, C. C. Carey, Y. Amitai, S. Bansal, E. de Eyto, H-P Grossart, K. K. Hoffman, R. Hovel, L. Knoll, B. M. Kraemer, I. Oleksy, M. Schmid, R. Schwefel, D. Straile, X. Sun, G. A. Weyhenmeyer, W. M. Woelmer, S. Wollrab, P. Znachor. How should we analyze seasons and seasonality in lakes? In revision at <i>Limnology and Oceanography Letters</i>.</li>
 <br>
