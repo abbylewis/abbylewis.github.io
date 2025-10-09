@@ -27,7 +27,7 @@ For annually-revised datasets, the citation for the most recent year is presente
 <td>
 <p><em>2025 2024 2023 2022</em></p>
 </td>
-<td style="height: 133px; ;">
+<td>
 <p>Carey, C.C., A. Breef-Pilz, and <span class="asl">A. S. L. Lewis</span>. 2025. Time series of methane and carbon dioxide diffusive fluxes using an Ultraportable Greenhouse Gas Analyzer (UGGA) for Falling Creek Reservoir and Beaverdam Reservoir in southwestern Virginia, USA during 2018-2024 ver 4. Environmental Data Initiative. [https://doi.org/10.6073/pasta/cdd88943c7990f28daa9b8ab7a6b9679](https://doi.org/10.6073/pasta/cdd88943c7990f28daa9b8ab7a6b9679)</p>
 </td>
 </tr>
@@ -35,7 +35,7 @@ For annually-revised datasets, the citation for the most recent year is presente
 <td>
 <p><em>2025 2024 2023 2022 2021 2019</p>
 </td>
-<td style=";">
+<td>
 <p>Carey C. C., A. Breef-Pilz, <span class="asl">A. S. L. Lewis</span>, K. K. Hoffman. 2025. Time series of high-frequency profiles of depth, temperature, dissolved oxygen, conductivity, specific conductance, chlorophyll a, turbidity, pH, oxidation-reduction potential, photosynthetically active radiation, colored dissolved organic matter, phycocyanin, phycoerythrin, and descent rate for Beaverdam Reservoir, Carvins Cove Reservoir, Falling Creek Reservoir, Gatewood Reservoir, and Spring Hollow Reservoir in southwestern Virginia, USA 2013-2024. Environmental Data Initiative. [https://doi.org/10.6073/pasta/75d1c9a57a49030c468ab19db3643c36](https://doi.org/10.6073/pasta/75d1c9a57a49030c468ab19db3643c36)</p>
 </td>
 </tr>
@@ -79,7 +79,7 @@ For annually-revised datasets, the citation for the most recent year is presente
 <td>
 <p><em>2022</em></p>
 </td>
-<td style="height: 127px; ;">
+<td>
 <p>Carey, C. C., <span class="asl">A. S. L.</span> <span class="asl">Lewis</span>, D. W. Howard, W. M. Woelmer, P. A. Gantzer, K. A. Bierlein, J. C. Little, WVWA. 2022. Bathymetry and watershed area for Falling Creek Reservoir, Beaverdam Reservoir, and Carvins Cove Reservoir ver 1. <em>Environmental Data Initiative</em>. [https://doi.org/10.6073/pasta/352735344150f7e77d2bc18b69a22412](https://doi.org/10.6073/pasta/352735344150f7e77d2bc18b69a22412)</p>
 <p>Jane, S. F., J. L. Mincer, M. P. Lau, <span class="asl">A. S. L. Lewis</span>, J. T. Stetler, K. C. Rose. 2022. Temperature and dissolved oxygen profiles for three Swiss lakes: 1972&ndash;2016 ver 6. <em>Environmental Data Initiative</em>. [https://doi.org/10.6073/pasta/7c08d0a4417f73d733d2a7eba43f57ea](https://doi.org/10.6073/pasta/7c08d0a4417f73d733d2a7eba43f57ea)</p>
 </td>
