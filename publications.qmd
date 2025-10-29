@@ -19,11 +19,9 @@ keywords:
 
 ## In review
 <ol reversed start = 32>
-<li><span class="asl">Lewis, A. S. L.</span>, D. Mercado-Bettin, and C. C. Carey. Ecological memory contributes to a spatial mismatch in water quality trends between the surface and bottom waters of 382 temperate lakes. Accepted at <i>Ecology Letters</i>. \[[preprint](https://doi.org/10.22541/au.171812883.31377074/v2)\]</li>
+<li><span class="asl">Lewis, A. S. L.</span>, J. R. Holmquist, A. N. Al-Haj, Z. N. Read, R. L. Rich, J. P. Megonigal, and G. L. Noyce. Warming decreases the predictability of coastal wetland methane emissions. In review at <i>Ecosphere</i>.</li>
 <br>
 <li><span class="asl">Lewis, A. S. L.</span>, D. C. Richardson, D. W. Howard, C. C. Carey, Y. Amitai, S. Bansal, E. de Eyto, H-P Grossart, K. K. Hoffman, R. Hovel, L. Knoll, B. M. Kraemer, I. Oleksy, M. Schmid, R. Schwefel, D. Straile, X. Sun, G. A. Weyhenmeyer, W. M. Woelmer, S. Wollrab, P. Znachor. How should we analyze seasons and seasonality in lakes? In revision at <i>Limnology and Oceanography Letters</i>.</li>
-<br>
-<li><span class="asl">Lewis, A. S. L.</span>, J. R. Holmquist, A. N. Al-Haj, Z. N. Read, R. L. Rich, J. P. Megonigal, and G. L. Noyce. Warming decreases the predictability of coastal wetland methane emissions. In review at <i>Ecosphere</i>.</li>
 <br>
 <li>Hounshell, A. G., <span class="asl">A. S. L. Lewis</span>, D. W Howard, H. L. Wander, M. E. Lofton, P. C. Hanson, and C. C. Carey. Dissolved organic carbon dynamics are driven by water temperature, primary production, and anoxia over five years of whole-ecosystem experiments in a eutrophic reservoir. In review at <i>Aquatic Science.</i> \[[preprint](https://doi.org/10.22541/essoar.172926851.15664834/v2)\]</li>
 <br>
@@ -37,7 +35,9 @@ keywords:
 
 ## 2025
 
-<ol reversed start = 24>
+<ol reversed start = 25>
+<li><span class="asl">Lewis, A. S. L.</span>, D. Mercado-Bettin, and C. C. Carey. 2025. Ecological memory contributes to a spatial mismatch in water quality trends between the surface and bottom waters of 382 temperate lakes. <i>Ecology Letters</i> 28(11): e70243. [https://doi.org/10.1111/ele.70243](https://doi.org/10.1111/ele.70243)</li>
+<br>
 <li>Olsson, F. E., C. C. Carey, G. Harrison, R. Ladwig, M. F. Lapeyrolerie, <span class="asl">A. S. L. Lewis</span>, M. E. Lofton, F. Montealegre-Mora, J. S. Rabaey, C. J. Robbins, X. Yang, R. Q. Thomas. 2025. What can we learn from 100,000 freshwater forecasts? A synthesis from the NEON Ecological Forecasting Challenge. <i>Ecological Applications</i>, 35(1): e70004. [https://doi.org/10.1002/eap.70004](https://doi.org/10.1002/eap.70004)</li>
 <br>
 <li>Wood, C. E., M. E. Schreiber, C. E. Bauer, A. Breef-Pilz, <span class="asl">A. S. L. Lewis</span>, N. W. Hammond, R. P. McClure, M. F. Verne, C. C. Carey. 2025. Preemptive activation of hypolimnetic oxygenation improves control of Fe and Mn in drinking water reservoirs. <i>Water Research</i>, 124722. [https://doi.org/10.1016/j.watres.2025.124722](https://doi.org/10.1016/j.watres.2025.124722)</li></ol>
