@@ -18,21 +18,25 @@ keywords:
 
 ## Teaching
 
+Through my teaching, I aim to empower students with the skills, confidence, and critical thinking necessary to navigate a rapidly changing world. 
+
+Previous courses include: 
+
 <ul>
-  <li><b>Data Science Skills Series</b> instructor at the Smithsonian Environmental Research Center (Summer 2025)</li>
+  <li><b>Data Science Skills Series</b> at the Smithsonian Environmental Research Center (summer 2025)</li>
     <ul>
       <li>I developed and co-led a series of six data science training workshops for the SERC community, with topics including Git/GitHub, spatial data analysis, and advanced data visualization.</li>
       </ul>
-  <li><b>Advanced R Programming</b> co-instructor of record at Virginia Tech (Spring 2023)</li>
+  <li><b>Advanced R Programming</b> at Virginia Tech (co-instructor of record; spring 2023)</li>
   <ul>
       <li>I designed and taught a graduate seminar on advanced programming in R (13 students) to help students better leverage computational approaches in their research.</li></ul>
-  <li><b>Principles of Biology Laboratory</b> teaching assistant at Virginia Tech (Spring 2022)</li>
-  <ul><li>I taught three lab sections with 7–24 students each.</li></ul>
-  <li><b>Ecology for Non-Majors</b> teaching assistant at Pomona College (Fall 2018)</li>
+  <li><b>Principles of Biology Laboratory</b> teaching assistant at Virginia Tech (spring 2022)</li>
   <ul></ul>
-  <li><b>Introduction to Ecology and Evolution</b> writing mentor at Pomona College (Spring 2018)</li>
+  <li><b>Ecology for Non-Majors</b> teaching assistant at Pomona College (fall 2018)</li>
   <ul></ul>
-  <li><b>Bilingual (Spanish and English) kindergarten</b> teaching assistant at Mountain View Elementary School (Spring 2018)</li>
+  <li><b>Introduction to Ecology and Evolution</b> writing mentor at Pomona College (spring 2018)</li>
+  <ul></ul>
+  <li><b>Bilingual (Spanish and English) kindergarten</b> teaching assistant at Mountain View Elementary School (spring 2018)</li>
 </ul>
 
 ## Outreach
