@@ -19,11 +19,11 @@ keywords:
 
 ## In review
 <ol reversed start = 32>
+<li>Hounshell, A. G., <span class="asl">A. S. L. Lewis</span>, D. W Howard, H. L. Wander, M. E. Lofton, P. C. Hanson, and C. C. Carey. Dissolved organic carbon dynamics are driven by water temperature, primary production, and anoxia over five years of whole-ecosystem experiments in a eutrophic reservoir. Accepted at <i>Aquatic Science.</i> \[[preprint](https://doi.org/10.22541/essoar.172926851.15664834/v2)\]</li>
+<br>
 <li><span class="asl">Lewis, A. S. L.</span>, J. R. Holmquist, A. N. Al-Haj, Z. N. Read, R. L. Rich, J. P. Megonigal, and G. L. Noyce. Warming decreases the predictability of coastal wetland methane emissions. In review at <i>Ecosphere</i>.</li>
 <br>
 <li><span class="asl">Lewis, A. S. L.</span>, D. C. Richardson, D. W. Howard, C. C. Carey, Y. Amitai, S. Bansal, E. de Eyto, H-P Grossart, K. K. Hoffman, R. Hovel, L. Knoll, B. M. Kraemer, I. Oleksy, M. Schmid, R. Schwefel, D. Straile, X. Sun, G. A. Weyhenmeyer, W. M. Woelmer, S. Wollrab, P. Znachor. How should we analyze seasons and seasonality in lakes? In revision at <i>Limnology and Oceanography Letters</i>.</li>
-<br>
-<li>Hounshell, A. G., <span class="asl">A. S. L. Lewis</span>, D. W Howard, H. L. Wander, M. E. Lofton, P. C. Hanson, and C. C. Carey. Dissolved organic carbon dynamics are driven by water temperature, primary production, and anoxia over five years of whole-ecosystem experiments in a eutrophic reservoir. In revision at <i>Aquatic Science.</i> \[[preprint](https://doi.org/10.22541/essoar.172926851.15664834/v2)\]</li>
 <br>
 <li>Colton, M., T. Fanara, S. Babin, <span class="asl">A. S. L. Lewis</span>, M. Dietze, C. Brown, M. Cotnoir, A. Caldas, K. Boyd. Ecological Forecasting for Readiness, Resilience, and Response. In revision at <i>Bulletin of the American Meteorological Society</i>.</li>
 <br>
