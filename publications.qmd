@@ -17,21 +17,13 @@ keywords:
 
 <i>\* indicates mentored undergraduate student</i>
 
-## In review
-<ol reversed start = 32>
-<li>Hounshell, A. G., <span class="asl">A. S. L. Lewis</span>, D. W Howard, H. L. Wander, M. E. Lofton, P. C. Hanson, and C. C. Carey. Dissolved organic carbon dynamics are driven by water temperature, primary production, and anoxia over five years of whole-ecosystem experiments in a eutrophic reservoir. Accepted at <i>Aquatic Science.</i> \[[preprint](https://doi.org/10.22541/essoar.172926851.15664834/v2)\]</li>
+## 2026
+<ol reversed start = 28>
+<li>Rabaey, J. S., <span class="asl">A. S. L. Lewis</span>, K. Attermeyer, P. Aurich, S. Bansal, M. Bartosiewicz, B. L. Bertolet, I. Bussmann, S. B. Cadieux, E. Calamita, C. Capelli, C. C. Carey, C. Cillero, F. Clayer, S. L. D'Ambrosio, T. A. Davidson, B. R. Deemer, B. A. Denfeld, W. Eckert, C. Esposito, P. Ford, A. Gorsky, N. A. Griffiths, H-P. Grossart, D. P. Hamilton, M. A. Holgerson, B. J. Huser, T. Iwata, J. Jansen, S. Jones, S. Juutinen, P. Kortelainen, M. Koschorreck, T. Kragh, A. Laas, T. Larmola, S. Läubli, I. Laurion, M. F. Lehmann, L. Liu, P. J. Martikainen, A. Matoušů, S. A. McCord, J. J. Montes-Pérez, D. Nizzoli, C. Ordóñez, M. Peacock, R. M. Pilla, V. Preskienis, J. Pu, T. Riis, T. Saarela, A. B. Santoso, C. J. Schubert, A. Sepulveda-Jauregui, B. S. Sherman, J. S. Sø, K. J. Stenehjem, K. J. Stenehjem, K. E. D. Strock, K. Tsuchiya, K. Wendt-Potthoff, G. A. Weyhenmeyer, P. Znachor, and J. Zopfi. Carbon dioxide and methane depth-profile concentrations in 522 lakes, ponds, and reservoirs worldwide. Accepted at <i>Scientific Data</i>.</li>
 <br>
-<li><span class="asl">Lewis, A. S. L.</span>, J. R. Holmquist, A. N. Al-Haj, Z. N. Read, R. L. Rich, J. P. Megonigal, and G. L. Noyce. Warming decreases the predictability of coastal wetland methane emissions. In review at <i>Ecosphere</i>.</li>
+<li>Hounshell, A. G., <span class="asl">A. S. L. Lewis</span>, D. W Howard, H. L. Wander, M. E. Lofton, P. C. Hanson, and C. C. Carey. 2026. Dissolved organic carbon dynamics are driven by water temperature, primary production, and anoxia over five years of whole-ecosystem experiments in a eutrophic reservoir. Aquatic Sciences, 8(23). [https://doi.org/10.1007/s00027-025-01252-5](https://doi.org/10.1007/s00027-025-01252-5)</li>
 <br>
-<li><span class="asl">Lewis, A. S. L.</span>, D. C. Richardson, D. W. Howard, C. C. Carey, Y. Amitai, S. Bansal, E. de Eyto, H-P Grossart, K. K. Hoffman, R. Hovel, L. Knoll, B. M. Kraemer, I. Oleksy, M. Schmid, R. Schwefel, D. Straile, X. Sun, G. A. Weyhenmeyer, W. M. Woelmer, S. Wollrab, P. Znachor. How should we analyze seasons and seasonality in lakes? In revision at <i>Limnology and Oceanography Letters</i>.</li>
-<br>
-<li>Colton, M., T. Fanara, S. Babin, <span class="asl">A. S. L. Lewis</span>, M. Dietze, C. Brown, M. Cotnoir, A. Caldas, K. Boyd. Ecological Forecasting for Readiness, Resilience, and Response. In revision at <i>Bulletin of the American Meteorological Society</i>.</li>
-<br>
-<li>Rabaey, J. S., <span class="asl">A. S. L. Lewis</span>, K. Attermeyer, P. Aurich, S. Bansal, M. Bartosiewicz, B. L. Bertolet, I. Bussmann, S. B. Cadieux, E. Calamita, C. Capelli, C. C. Carey, C. Cillero, F. Clayer, S. L. D'Ambrosio, T. A. Davidson, B. R. Deemer, B. A. Denfeld, W. Eckert, C. Esposito, P. Ford, A. Gorsky, N. A. Griffiths, H-P. Grossart, D. P. Hamilton, M. A. Holgerson, B. J. Huser, T. Iwata, J. Jansen, S. Jones, S. Juutinen, P. Kortelainen, M. Koschorreck, T. Kragh, A. Laas, T. Larmola, S. Läubli, I. Laurion, M. F. Lehmann, L. Liu, P. J. Martikainen, A. Matoušů, S. A. McCord, J. J. Montes-Pérez, D. Nizzoli, C. Ordóñez, M. Peacock, R. M. Pilla, V. Preskienis, J. Pu, T. Riis, T. Saarela, A. B. Santoso, C. J. Schubert, A. Sepulveda-Jauregui, B. S. Sherman, J. S. Sø, K. J. Stenehjem, K. J. Stenehjem, K. E. D. Strock, K. Tsuchiya, K. Wendt-Potthoff, G. A. Weyhenmeyer, P. Znachor, and J. Zopfi. Carbon dioxide and methane depth-profile concentrations in 544 lakes, ponds, and reservoirs worldwide. In revision at <i>Scientific Data</i>.</li>
-<br>
-<li>Holmquist, J. R., A. R. Carr, and <span class="asl">A. S. L. Lewis</span>. Continuous Salinity Mapping for Coastal Wetlands in the United States. In revision at <i>Remote Sensing of the Environment</i>.</li>
-<br>
-<li>Sjodin, A., G. Stokes, C. Gallagher, M. Javadian, <span class="asl">A. S. L. Lewis</span>, C. Schreiner, L. Super, B. Tuschhoff, A. Willson, M. C. Dietze, J.  MacLachlan, J. Peters. Toward a standard lexicon for ecological forecasting. In revision at <i>Frontiers in Ecology and the Environment</i>.</li></ol>
+<li>Colton, M., T. Fanara, S. Babin, <span class="asl">A. S. L. Lewis</span>, M. Dietze, C. Brown, M. Cotnoir, A. Caldas, and K. Boyd. 2026. Ecological Forecasting for Readiness, Resilience, and Response. <i>Bulletin of the American Meteorological Society</i>. [https://doi.org/10.1175/BAMS-D-24-0271.1](https://doi.org/10.1175/BAMS-D-24-0271.1).</li></ol>
 
 ## 2025
 
