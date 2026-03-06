@@ -18,21 +18,25 @@ keywords:
 <i>\* indicates mentored undergraduate student</i>
 
 ## 2026
-<ol reversed start = 28>
+<ol reversed start = 30>
+<li><span class="asl">Lewis, A. S. L.</span>, J. R. Holmquist, A. N. Al-Haj, Z. N. Read, R. L. Rich, J. P. Megonigal, and G. L. Noyce. Warming decreases the predictability of methane emissions in a coastal wetland. In press (accepted) at <i>Ecosphere</i>. </li>
+<br>
+<li><span class="asl">Lewis, A. S. L.</span>, D. C. Richardson, D. W. Howard, C. C. Carey, B. M. Kraemer, Y. Amitai, S. Bansal, E. de Eyto, H-P Grossart, K. K. Hoffman, R. A. Hovel, L. Knoll, I. A. Oleksy, A. B. Santoso, M. Schmid, R. Schwefel, D. Straile, X. Sun, G. A. Weyhenmeyer, W. M. Woelmer, S. Wollrab, and P. Znachor. Seasons and seasonality in lakes: a synthesis amid global change. In press (accepted) at <i>Limnology and Oceanography Letters</i>.</li>
+<br>
 <li>Rabaey, J. S., <span class="asl">A. S. L. Lewis</span>, K. Attermeyer, P. Aurich, S. Bansal, M. Bartosiewicz, B. L. Bertolet, I. Bussmann, S. B. Cadieux, E. Calamita, C. Capelli, C. C. Carey, C. Cillero, F. Clayer, S. L. D'Ambrosio, T. A. Davidson, B. R. Deemer, B. A. Denfeld, W. Eckert, C. Esposito, P. Ford, A. Gorsky, N. A. Griffiths, H-P. Grossart, D. P. Hamilton, M. A. Holgerson, B. J. Huser, T. Iwata, J. Jansen, S. Jones, S. Juutinen, P. Kortelainen, M. Koschorreck, T. Kragh, A. Laas, T. Larmola, S. Läubli, I. Laurion, M. F. Lehmann, L. Liu, P. J. Martikainen, A. Matoušů, S. A. McCord, J. J. Montes-Pérez, D. Nizzoli, C. Ordóñez, M. Peacock, R. M. Pilla, V. Preskienis, J. Pu, T. Riis, T. Saarela, A. B. Santoso, C. J. Schubert, A. Sepulveda-Jauregui, B. S. Sherman, J. S. Sø, K. J. Stenehjem, K. J. Stenehjem, K. E. D. Strock, K. Tsuchiya, K. Wendt-Potthoff, G. A. Weyhenmeyer, P. Znachor, and J. Zopfi. Carbon dioxide and methane depth-profile concentrations in 522 lakes, ponds, and reservoirs worldwide. <i>Scientific Data</i>. [https://doi.org/10.1038/s41597-026-06751-0](https://doi.org/10.1038/s41597-026-06751-0)</li>
 <br>
-<li>Hounshell, A. G., <span class="asl">A. S. L. Lewis</span>, D. W Howard, H. L. Wander, M. E. Lofton, P. C. Hanson, and C. C. Carey. 2026. Dissolved organic carbon dynamics are driven by water temperature, primary production, and anoxia over five years of whole-ecosystem experiments in a eutrophic reservoir. Aquatic Sciences, 8(23). [https://doi.org/10.1007/s00027-025-01252-5](https://doi.org/10.1007/s00027-025-01252-5)</li>
+<li>Hounshell, A. G., <span class="asl">A. S. L. Lewis</span>, D. W Howard, H. L. Wander, M. E. Lofton, P. C. Hanson, and C. C. Carey. 2026. Dissolved organic carbon dynamics are driven by water temperature, primary production, and anoxia over five years of whole-ecosystem experiments in a eutrophic reservoir. <i>Aquatic Sciences</i>, 8(23). [https://doi.org/10.1007/s00027-025-01252-5](https://doi.org/10.1007/s00027-025-01252-5)</li>
 <br>
 <li>Colton, M., T. Fanara, S. Babin, <span class="asl">A. S. L. Lewis</span>, M. Dietze, C. Brown, M. Cotnoir, A. Caldas, and K. Boyd. 2026. Ecological Forecasting for Readiness, Resilience, and Response. <i>Bulletin of the American Meteorological Society</i>. [https://doi.org/10.1175/BAMS-D-24-0271.1](https://doi.org/10.1175/BAMS-D-24-0271.1).</li></ol>
 
 ## 2025
 
 <ol reversed start = 25>
-<li><span class="asl">Lewis, A. S. L.</span>, D. Mercado-Bettin, and C. C. Carey. 2025. Ecological memory contributes to a spatial mismatch in water quality trends between the surface and bottom waters of 382 temperate lakes. <i>Ecology Letters</i> 28(11): e70243. [https://doi.org/10.1111/ele.70243](https://doi.org/10.1111/ele.70243)</li>
+<li><span class="asl">Lewis, A. S. L.</span>, D. Mercado-Bettin, and C. C. Carey. 2025. Ecological memory contributes to a spatial mismatch in water quality trends between the surface and bottom waters of 382 temperate lakes. <i>Ecology Letters</i> 28(11), e70243. [https://doi.org/10.1111/ele.70243](https://doi.org/10.1111/ele.70243)</li>
 <br>
-<li>Olsson, F. E., C. C. Carey, G. Harrison, R. Ladwig, M. F. Lapeyrolerie, <span class="asl">A. S. L. Lewis</span>, M. E. Lofton, F. Montealegre-Mora, J. S. Rabaey, C. J. Robbins, X. Yang, R. Q. Thomas. 2025. What can we learn from 100,000 freshwater forecasts? A synthesis from the NEON Ecological Forecasting Challenge. <i>Ecological Applications</i>, 35(1): e70004. [https://doi.org/10.1002/eap.70004](https://doi.org/10.1002/eap.70004)</li>
+<li>Olsson, F. E., C. C. Carey, G. Harrison, R. Ladwig, M. F. Lapeyrolerie, <span class="asl">A. S. L. Lewis</span>, M. E. Lofton, F. Montealegre-Mora, J. S. Rabaey, C. J. Robbins, X. Yang, R. Q. Thomas. 2025. What can we learn from 100,000 freshwater forecasts? A synthesis from the NEON Ecological Forecasting Challenge. <i>Ecological Applications</i>, 35(1), e70004. [https://doi.org/10.1002/eap.70004](https://doi.org/10.1002/eap.70004)</li>
 <br>
-<li>Wood, C. E., M. E. Schreiber, C. E. Bauer, A. Breef-Pilz, <span class="asl">A. S. L. Lewis</span>, N. W. Hammond, R. P. McClure, M. F. Verne, C. C. Carey. 2025. Preemptive activation of hypolimnetic oxygenation improves control of Fe and Mn in drinking water reservoirs. <i>Water Research</i>, 124722. [https://doi.org/10.1016/j.watres.2025.124722](https://doi.org/10.1016/j.watres.2025.124722)</li></ol>
+<li>Wood, C. E., M. E. Schreiber, C. E. Bauer, A. Breef-Pilz, <span class="asl">A. S. L. Lewis</span>, N. W. Hammond, R. P. McClure, M. F. Verne, C. C. Carey. 2025. Preemptive activation of hypolimnetic oxygenation improves control of Fe and Mn in drinking water reservoirs. <i>Water Research</i>, 288, 124722. [https://doi.org/10.1016/j.watres.2025.124722](https://doi.org/10.1016/j.watres.2025.124722)</li></ol>
 
 ## 2024
 
@@ -49,7 +53,7 @@ keywords:
 <br>
 <li>Malmborg, C. A., A. M. Willson, L. M. Bradley, M. A. Beatty, D. H. Klinges, G. Koren, <span class="asl">A. S. L. Lewis</span>, K. Oshinubi, and W. M. Woelmer. Defining Model Complexity: An Ecological Perspective. <i>Meteorological Applications</i>, 31(3), e2202. [https://doi.org/10.1002/met.2202](https://doi.org/10.1002/met.2202)</li>
 <br>
-<li>Wander, H. L., <span class="asl">A. S. L. Lewis</span>, D. W. Howard, M. E. Lofton, W. M. Woelmer, B. L. Brown, and C. C. Carey. 2024. Zooplankton community structure and diel migration patterns vary over hours, days, and years in the pelagic and littoral zone of a eutrophic reservoir. <i>Journal of Plankton Research</i>, fbae017. [https://doi.org/10.1093/plankt/fbae017](https://doi.org/10.1093/plankt/fbae017)</li>
+<li>Wander, H. L., <span class="asl">A. S. L. Lewis</span>, D. W. Howard, M. E. Lofton, W. M. Woelmer, B. L. Brown, and C. C. Carey. 2024. Zooplankton community structure and diel migration patterns vary over hours, days, and years in the pelagic and littoral zone of a eutrophic reservoir. <i>Journal of Plankton Research</i>, 46(3), 307–322. [https://doi.org/10.1093/plankt/fbae017](https://doi.org/10.1093/plankt/fbae017)</li>
 <br>
 <li>Man, X., C. Lei, K. A. Bierlein, L. D. Bryant. <span class="asl">A. S. L. Lewis</span>, C. C. Carey, J. C. Little. 2024. Computationally characterizing the diffusive boundary layer in lakes and reservoirs. <i>Journal of Soils and Sediments</i>, 24, 2132–2143. [https://doi.org/10.1007/s11368-024-03767-0](https://doi.org/10.1007/s11368-024-03767-0)</li>
 
