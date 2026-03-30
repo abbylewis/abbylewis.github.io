@@ -28,7 +28,7 @@ website:
       - text: "Teaching and outreach"
         file: teaching.qmd
       - text: "CV"
-        file: pdf/ALewisCV_26Feb2026_research.pdf
+        file: pdf/ALewisCV_30Mar2026_research.pdf
         target: blank
       - icon: envelope
         href: "mailto:abigail.sl.lewis@gmail.com"
