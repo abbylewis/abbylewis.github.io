@@ -1,0 +1,15 @@
+
+---
+title: "Join the lab!"
+description: "Opportunities available in Abby Lewis's research group"
+image: "images/marsh_square.jpg"
+title-block-style: none
+---
+
+I will be joining the Odum School of Ecology as a tenure-track professor in the fall of 2027. 
+
+Research directions:
+
+Fellowships:
+
+https://www.simonsfoundation.org/2026/05/01/applications-for-2027-simons-graduate-fellowships-in-ecology-and-evolution-now-open/ 
