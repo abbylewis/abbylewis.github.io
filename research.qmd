@@ -25,7 +25,9 @@ Can we forecast ecology like we forecast the weather? Ecological forecasts are t
 
 ## Aquatic carbon cycling
 
-Aquatic ecosystems play an important role in the global carbon cycling processes that regulate Earth's climate. However, changes in climate and land use can modulate the way these ecosystems process carbon, leading to positive or negative climate feedback effects. I use experiments and monitoring to analyze the effects of anthropogenic drivers on the biogeochemistry of carbon in aquatic environments. 
+![Water level management dramatically affected carbon cycling processes. Read more in <a href="https://doi.org/10.1029/2022JG007071" target="_blank"><i>JGR Biogeosciences</i></a>](images/Figure_2_twitter.png){style="float:right; padding-right:10px; width:200px; alt:''"}
+
+Aquatic ecosystems play an important role in the global carbon cycling processes that regulate Earth's climate. However, anthropogenic changes can modulate the way these ecosystems process carbon, leading to positive or negative climate feedback effects. I use experiments and monitoring to analyze the effects of anthropogenic drivers on the biogeochemistry of carbon in aquatic environments. 
 
 <span class="asl">Select publications:</span>
 <ul>
