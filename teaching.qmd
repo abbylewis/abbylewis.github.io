@@ -1,4 +1,3 @@
-
 ---
 title: "Teaching and Outreach"
 description: "Abby Lewis's contributions to teaching and outreach"
@@ -30,62 +29,57 @@ Previous courses include:
   <li><b>Advanced R Programming</b> at Virginia Tech (co-instructor of record; spring 2023)</li>
   <ul>
       <li>I designed and taught a graduate seminar on advanced programming in R (13 students) to help students better leverage computational approaches in their research.</li></ul>
-  <li><b>Principles of Biology Laboratory</b> teaching assistant at Virginia Tech (spring 2022)</li>
-  <ul></ul>
-  <li><b>Ecology for Non-Majors</b> teaching assistant at Pomona College (fall 2018)</li>
-  <ul></ul>
-  <li><b>Introduction to Ecology and Evolution</b> writing mentor at Pomona College (spring 2018)</li>
-  <ul></ul>
-  <li><b>Bilingual (Spanish and English) kindergarten</b> teaching assistant at Mountain View Elementary School (spring 2018)</li>
 </ul>
 
 ## Outreach
 
-![](images/COLO2_small.png){style="float:right; padding-right:10px; width:200px; alt:'Marsh restoration display board'"}
+Below are a few examples of recent science outreach efforts:
 
 ### National Parks Marsh Restoration
 
-I worked with the National Park Service to create a set of communications materials about coastal marsh restoration, including visitor center display boards and digital StoryMaps. This work was done through a [science communication fellowship](https://esa.org/programs/scip/) from the Ecological Society of America.
+![](images/COLO2_small.png){style="float:right; padding-right:10px; width:200px; alt:'Marsh restoration display board'"}
+
+I worked with the National Park Service to create a set of communications materials about coastal marsh restoration, including visitor center display boards and digital StoryMaps. This work was done through a <a href="https://esa.org/programs/scip/" target="_blank" rel="noopener noreferrer">science communication fellowship</a> from the Ecological Society of America.
 <ul>
-  <li>[Assateague Island National Seashore StoryMap](https://storymaps.arcgis.com/stories/094c032b8f2d435dbd31e5b2d49bc173)</li>
-  <li>[Colonial National Historical Park StoryMap](https://storymaps.arcgis.com/stories/8227e104027043dfb39bce020143b7e2)</li>
+  <li><a href="https://storymaps.arcgis.com/stories/094c032b8f2d435dbd31e5b2d49bc173" target="_blank" rel="noopener noreferrer">Assateague Island National Seashore StoryMap</a></li>
+  <li><a href="https://storymaps.arcgis.com/stories/8227e104027043dfb39bce020143b7e2" target="_blank" rel="noopener noreferrer">Colonial National Historical Park StoryMap</a></li>
 </ul>
 
 <div style="clear:right"></div>
 
 ---
 
-<a href="https://doi.org/10.15695/jstem/v6i1.14">
+<a href="https://doi.org/10.15695/jstem/v6i1.14" target="_blank" rel="noopener noreferrer">
   ![](images/flipthefair.png){style="float:left; padding-right:10px; width:200px; alt:'graduate students presenting their research to child judges'"}
 </a>
 
 ### Flipped Science Fair
 
-In our flipped science fair, we gave kids the power to judge graduate student science fair posters. Kids interacted with 27 graduate student presenters in small group settings, and they had the opportunity to see themselves as valued contributors in science. Meanwhile, graduate students had got training and feedback in science communication. We published a paper about the first year of this project [here](https://doi.org/10.15695/jstem/v6i1.14).
+In our flipped science fair, we gave kids the power to judge graduate student science fair posters. Kids interacted with 27 graduate student presenters in small group settings, and they had the opportunity to see themselves as valued contributors in science. Meanwhile, graduate students had got training and feedback in science communication. We published a paper about the first year of this project <a href="https://doi.org/10.15695/jstem/v6i1.14" target="_blank" rel="noopener noreferrer">here</a>.
 
 <div style="clear:left"></div>
 
 ---
 
-<a href="https://globalchange.vt.edu/news/news-stories/2020-21-news/new-educational-outreach-stream-box.html">
+<a href="https://globalchange.vt.edu/news/news-stories/2020-21-news/new-educational-outreach-stream-box.html" target="_blank" rel="noopener noreferrer">
   ![](images/streambox.jpg){style="float:right; padding-right:10px; width:200px; alt:'Marsh restoration display board'"}
 </a>
 
 ### Stream box
 
-When the COVID-19 pandemic cancelled all in-person science outreach, I worked the [New River Land Trust](https://www.newriverlandtrust.org/) and the Virginia Tech [Stream Team](https://vtstreamteam.weebly.com/) to put together a "Stream Box" filled with information and activities that families could use to independently learn about a local stream. The Global Change Center wrote an article about this work [here](https://globalchange.vt.edu/news/news-stories/2020-21-news/new-educational-outreach-stream-box.html).
+When the COVID-19 pandemic cancelled all in-person science outreach, I worked the <a href="https://www.newriverlandtrust.org/" target="_blank" rel="noopener noreferrer">New River Land Trust</a> and the Virginia Tech <a href="https://vtstreamteam.weebly.com/" target="_blank" rel="noopener noreferrer">Stream Team</a> to put together a "Stream Box" filled with information and activities that families could use to independently learn about a local stream. The Global Change Center wrote an article about this work <a href="https://globalchange.vt.edu/news/news-stories/2020-21-news/new-educational-outreach-stream-box.html" target="_blank" rel="noopener noreferrer">here</a>.
 
 <div style="clear:right"></div>
 
 ---
 
-<a href="https://www.youtube.com/watch?v=bP4h2Nr5va8&list=PLjNPzLCLK0Ss0SYc4fdejp3nt8d0AtTfa">
+<a href="https://www.youtube.com/watch?v=bP4h2Nr5va8&list=PLjNPzLCLK0Ss0SYc4fdejp3nt8d0AtTfa" target="_blank" rel="noopener noreferrer">
   ![](images/girlslaunch.png){style="float:left; padding-right:10px; width:200px; alt:'screenshot of a video of Abby taking a sediment core'"}
 </a>
 
 ### GirlsLaunch!
 
-GirlsLaunch! is a program at Virginia Tech that aims to combat gender biases by exposing kindergarten-aged children to female scientists. With [funding](https://support.psyc.vt.edu/news/girls-launch-brings-female-scientists-children-through-icat-funded-project) from the Virginia Tech Center for Communicating Science, I developed a [video](https://www.youtube.com/watch?v=bP4h2Nr5va8&list=PLjNPzLCLK0Ss0SYc4fdejp3nt8d0AtTfa) and interactive worksheet activity for the GirlsLaunch! program. 
+GirlsLaunch! is a program at Virginia Tech that aims to combat gender biases by exposing kindergarten-aged children to female scientists. With <a href="https://support.psyc.vt.edu/news/girls-launch-brings-female-scientists-children-through-icat-funded-project" target="_blank" rel="noopener noreferrer">funding</a> from the Virginia Tech Center for Communicating Science, I developed a <a href="https://www.youtube.com/watch?v=bP4h2Nr5va8&list=PLjNPzLCLK0Ss0SYc4fdejp3nt8d0AtTfa" target="_blank" rel="noopener noreferrer">video</a> and interactive worksheet activity for the GirlsLaunch! program. 
 
 <div style="clear:left"></div>
 
@@ -95,7 +89,7 @@ GirlsLaunch! is a program at Virginia Tech that aims to combat gender biases by 
 
 ### Envirobites
 
-[Envirobites](https://envirobites.org/) works to make environmental research accessible to non-experts. I have written [many articles](https://envirobites.org/author/alewis/) for the site, each of which takes a specific paper and breaks down the key findings.
+<a href="https://envirobites.org/" target="_blank" rel="noopener noreferrer">Envirobites</a> works to make environmental research accessible to non-experts. I have written <a href="https://envirobites.org/author/alewis/" target="_blank" rel="noopener noreferrer">many articles</a> for the site, each of which takes a specific paper and breaks down the key findings.
 
 <div style="clear:left"></div>
 

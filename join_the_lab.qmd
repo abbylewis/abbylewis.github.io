@@ -1,4 +1,3 @@
-
 ---
 title: "Join the lab!"
 description: "Opportunities available in Abby Lewis's research group"
@@ -6,10 +5,26 @@ image: "images/marsh_square.jpg"
 title-block-style: none
 ---
 
-I will be joining the Odum School of Ecology as a tenure-track professor in the fall of 2027. 
+I am planning to hire 1-2 motivated graduate students to start in the fall of 2027. Graduate students will be based in the Odum School of Ecology at UGA, and will be fully funded off of a combination of research and teaching assistantships.
 
-Research directions:
+Potential projects could include:
 
-Fellowships:
+<ul><li><span class = "asl">Analyzing "hot moments" of methane emission from coastal wetlands.</span> For this project, you would work with a fantastic team of researchers, a state-of-the art mesocosm facility, and an <i>in situ</i> warming experiment at the <a href="https://serc.si.edu/" target="_blank">Smithsonian Environmental Research Center</a>.
+<ul><li>I am hoping to hire one student to lead the mesocosm experiments for this project and potentially also a second student to lead modeling and forecasting efforts.</li></ul>
+<li><span class = "asl">Analyzing the variability and predictability of water quality in lakes, ponds, and reservoirs.</span> This project would involve fieldwork to set up and monitor an exciting new network of water quality sensors. The project will also include opportunities to lead global analyses through the Global Lake Ecological Observatory Network (<a href="https://gleon.org/" target="_blank">GLEON</a>).</li>
+<li><span class = "asl">Forecasting changes in greenhouse gas dynamics across lakes worldwide.</span> This project would include close collaboration with international research teams in the GLEON and the <a href="https://ecoforecast.org/" target="_blank">Ecological Forecasting Initiative</a>, with a goal of improving the representation of lakes in the global carbon budget.</li>
+<li>There may be opportunities to explore projects beyond those listed above. See <a href="https://abbylewis.github.io/research.html" target="_blank">Current Research</a> for an overview of active research areas.</li>
+</ul>
 
-https://www.simonsfoundation.org/2026/05/01/applications-for-2027-simons-graduate-fellowships-in-ecology-and-evolution-now-open/ 
+If you are interested in joining the lab, please email me with a short description of your interests and a copy of your CV.
+
+## Graduate Fellowships
+
+I am happy to work with prospective students on fellowship applications that would support their work, including those listed below. Please reach out if you are interested in discussing potential projects:
+
+<ul>
+<li><a href="https://www.simonsfoundation.org/2026/05/01/applications-for-2027-simons-graduate-fellowships-in-ecology-and-evolution-now-open/" target="_blank">Simons Foundation Graduate Fellowship</a>: Due June 30, 2026, at 12 p.m. (noon) Eastern time</li>
+<li><a href="https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program" target="_blank">NSF Graduate Research Fellowship Program</a>: Due in October/November 2026</li>
+</ul>
+
+<br>

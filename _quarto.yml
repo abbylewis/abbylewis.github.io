@@ -19,17 +19,17 @@ website:
     right:
       - text: "Home"
         file: index.qmd
-      #- text: "Research"
-      #  file: research.qmd
-      - text: "Publications"
-        file: publications.qmd
-      - text: "Data publications"
-        file: open_science.qmd
+      - text: "Research"
+        file: research.qmd
       - text: "Teaching and outreach"
         file: teaching.qmd
+      - text: "Publications"
+        file: publications.qmd
       - text: "CV"
         file: pdf/ALewisCV_30Mar2026_research.pdf
         target: blank
+      - text: "Join the lab!"
+        file: join_the_lab.qmd
       - icon: envelope
         href: "mailto:abigail.sl.lewis@gmail.com"
       - icon: github
