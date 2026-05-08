@@ -49,7 +49,7 @@ keywords:
 <br>
 <li>Mesman, J. P., C. C. Barbosa, <span class="asl">A. S. L. Lewis</span>, F. E. Olsson, S. Calhoun-Grosch, H.-P. Grossart, R. Ladwig, R. S. La Fuente, K. Münzner, L. G. T. Nkwalale, R. M. Pilla, K. Suresh and D. J. Wain. 2024. Challenges of Open Data in aquatic sciences: issues faced by data users and data providers. <i>Frontiers in Environmental Science</i>, 12, 1497105. [https://doi.org/10.3389/fenvs.2024.1497105](https://doi.org/10.3389/fenvs.2024.1497105)</li>
 <br>
-<li>Howard, D. W., J. A. Brentrup, D. C. Richardson, <span class="asl">A. S. L. Lewis</span>, F. E. Olsson, and C. C. Carey. Variability in ice cover does not affect annual metabolism estimates in a small eutrophic reservoir. <i>JGR Biogeosciences</i>, 129, e2024JG008057. [https://doi.org/10.1029/2024JG008057](https://doi.org/10.1029/2024JG008057)</li>
+<li>Howard, D. W., J. A. Brentrup, D. C. Richardson, <span class="asl">A. S. L. Lewis</span>, F. E. Olsson, and C. C. Carey. 2024. Variability in ice cover does not affect annual metabolism estimates in a small eutrophic reservoir. <i>JGR Biogeosciences</i>, 129, e2024JG008057. [https://doi.org/10.1029/2024JG008057](https://doi.org/10.1029/2024JG008057)</li>
 <br>
 <li>Malmborg, C. A., A. M. Willson, L. M. Bradley, M. A. Beatty, D. H. Klinges, G. Koren, <span class="asl">A. S. L. Lewis</span>, K. Oshinubi, and W. M. Woelmer. Defining Model Complexity: An Ecological Perspective. <i>Meteorological Applications</i>, 31(3), e2202. [https://doi.org/10.1002/met.2202](https://doi.org/10.1002/met.2202)</li>
 <br>
@@ -62,7 +62,7 @@ keywords:
 <ol reversed start = 15>
 <li><span class="asl">Lewis, A. S. L.</span>, C. R. Rollinson, A. J. Allyn, J. Ashander, S. Brodie, C. B. Brookson, E. Collins, M. C. Dietze, A. S. Gallinat, N. Juvigny-Khenafou, G. Koren, D. J. McGlinn, J. A. Peters, N. R. Record, C. J. Robbins, J. Tonkin, and G. M. Wardle. 2023. The power of forecasts to advance ecological theory. <i>Methods in Ecology and Evolution</i>, 14(3), 746–756. [https://doi.org/10.1111/2041-210X.13955](https://doi.org/10.1111/2041-210X.13955)</li>
 <br>
-<li><span class="asl">Lewis, A. S. L.</span>, M. E. Schreiber, B. R. Niederlehner, A. Das*, N. W. Hammond, M. E. Lofton, H. L. Wander, C. C. Carey. 2023. Effects of Hypoxia on Coupled Iron and Carbon Cycling Differ by Timescale in Two Freshwater Reservoirs. <i>Journal of Geophysical Research: Biogeosciences</i>, 128(1), e2022JG007071. [https://doi.org/10.1029/2022JG007071](https://doi.org/10.1029/2022JG007071)</li>
+<li><span class="asl">Lewis, A. S. L.</span>, M. E. Schreiber, B. R. Niederlehner, A. Das*, N. W. Hammond, M. E. Lofton, H. L. Wander, C. C. Carey. 2023. Effects of Hypoxia on Coupled Iron and Carbon Cycling Differ by Timescale in Two Freshwater Reservoirs. <i>JGR Biogeosciences</i>, 128(1), e2022JG007071. [https://doi.org/10.1029/2022JG007071](https://doi.org/10.1029/2022JG007071)</li>
 <br>
 <li><span class="asl">Lewis, A. S. L.</span>, D. W. Howard, G. Koren, C. Kowalski, J. McLachlan, J. A. Peters, O. Tabares, G. Smies. 2023. Ethics in ecological forecasting: a case-based learning set. <i>Teaching Issues and Experiments in Ecology</i>, 19(13). [https://doi.org/10.25334/5D99-Y019](https://doi.org/10.25334/5D99-Y019)</li>
 <br>
