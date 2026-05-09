@@ -5,8 +5,6 @@ image: "images/marsh_square.jpg"
 title-block-style: none
 ---
 
-<br>
-
 # Abigail Lewis
 
 <span style ="font-size:12pt">Ecosystem ecology, data science, ecological forecasting</span>

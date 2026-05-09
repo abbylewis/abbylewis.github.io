@@ -1,3 +1,4 @@
+
 ---
 title: "Join the lab!"
 description: "Opportunities available in Abby Lewis's research group"
@@ -11,10 +12,22 @@ I am planning to hire 1-2 motivated graduate students to start in the fall of 20
 
 Potential projects could include:
 
-<ul><li><span class = "asl">Analyzing "hot moments" of methane emission from coastal wetlands.</span> For this project, you would work with a fantastic team of researchers, a state-of-the art mesocosm facility, and an <i>in situ</i> warming experiment at the <a href="https://serc.si.edu/" target="_blank">Smithsonian Environmental Research Center</a>.
-<ul><li>I am hoping to hire one student to lead the mesocosm experiments for this project and potentially also a second student to lead modeling and forecasting efforts.</li></ul>
-<li><span class = "asl">Analyzing the variability and predictability of water quality in lakes, ponds, and reservoirs.</span> This project would involve fieldwork to set up and monitor an exciting new network of water quality sensors. The project will also include opportunities to lead global analyses through the Global Lake Ecological Observatory Network (<a href="https://gleon.org/" target="_blank">GLEON</a>).</li>
-<li><span class = "asl">Forecasting changes in greenhouse gas dynamics across lakes worldwide.</span> This project would include close collaboration with international research teams in the GLEON and the <a href="https://ecoforecast.org/" target="_blank">Ecological Forecasting Initiative</a>, with a goal of improving the representation of lakes in the global carbon budget.</li>
+![Automated flux chambers at SERC](images/genx.jpg){style="float:right; padding-left:10px; width:220px; alt:'automated flux chambers in the marsh at sunrise'"}
+
+<ul><li><span class = "asl">Analyzing "hot moments" of methane emission from coastal wetlands.</span> For this project, you would work with a fantastic team of researchers, a state-of-the art mesocosm facility, and an <i>in situ</i> warming experiment at the Smithsonian Environmental Research Center (<a href="https://serc.si.edu/" target="_blank">SERC</a>).</li>
+<ul><li>I am hoping to hire one student to lead the mesocosm experiments for this project and potentially also a second student to lead modeling and forecasting efforts.
+
+</li></ul>
+
+<li><span class = "asl">Analyzing the variability and predictability of water quality in lakes, ponds, and reservoirs.</span> This project would involve fieldwork to set up and monitor an exciting new network of water quality sensors, as well as the opportunity to lead global analyses through the Global Lake Ecological Observatory Network (<a href="https://gleon.org/" target="_blank">GLEON</a>).
+
+![Lake Agnes (Minnesota, USA)](images/more_pretty_lake.jpg){style="float:right; padding-left:10px; width:220px; alt:'lake at sunrise'"}
+</li>
+
+<li><span class = "asl">Forecasting changes in greenhouse gas dynamics across lakes worldwide.</span> This project would include close collaboration with international research teams in the GLEON and the <a href="https://ecoforecast.org/" target="_blank">Ecological Forecasting Initiative</a>, with a goal of improving the representation of lakes in the global carbon budget.
+
+</li>
+
 <li>There may be opportunities to explore projects beyond those listed above. See <a href="https://abbylewis.github.io/research.html" target="_blank">Current Research</a> for an overview of active research areas.</li>
 </ul>
 
@@ -25,6 +38,8 @@ The Odum School of Ecology is an exciting and unique place to do this research. 
 This is a particularly exciting time to be here, as Odum just hired four (!!) new ecosystem ecologists. Three of them are starting in 2026, and I will join in fall 2027. I am really thrilled about the opportunity to collaborate and build a research community with this group. As a student, this means that you will have access to lots of new equipment, relevant courses, reading groups, and faculty (e.g., committee members) to help support your work. 
 
 At UGA, you will also have the opportunity to interact and collaborate with other programs and field sites, including the fantastic <a href="https://ecology.uga.edu/river-basin-center/" target="_blank">River Basin Center</a>, which helps connect freshwater science to management and policy.
+
+![Rania Adouim presenting at the Ecological Society of America's annual meeting](images/rania.jpg){style="float:right; padding-left:10px; width:220px; alt:'person standing in front of scientific poster with maps of changing plant community composition in a wetland'"}
 
 # To apply
 

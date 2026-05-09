@@ -5,6 +5,8 @@ description: "Research areas for Abigail (Abby) Lewis"
 title-block-style: none
 ---
 
+![](images/research.png){style="width:100%; alt:'a lake, autmoated flux chambers, and another lakeshore'"}
+
 My research aims to understand and predict changes in aquatic ecosystem function worldwide. I work in a range of ecosystems from freshwater lakes to coastal wetlands, and I employ diverse methods including whole-ecosystem experiments, global data analysis, and ecological forecasting. 
 
 Below are several active research areas:
@@ -25,7 +27,7 @@ Can we forecast ecology like we forecast the weather? Ecological forecasts are t
 
 ## Aquatic carbon cycling
 
-![Water level management dramatically affected carbon cycling processes. Read more in <a href="https://doi.org/10.1029/2022JG007071" target="_blank"><i>JGR Biogeosciences</i></a>](images/Figure_2_twitter.png){style="float:right; padding-right:10px; width:200px; alt:''"}
+![Water level management dramatically affected carbon cycling processes. Read more in <a href="https://doi.org/10.1029/2022JG007071" target="_blank"><i>JGR Biogeosciences</i></a>](images/Figure_2_twitter.png){style="float:right; padding-right:10px; width:200px; alt:'Image of the reservoir before and after water level drawdown, which made water quality visibly worse'"}
 
 Aquatic ecosystems play an important role in the global carbon cycling processes that regulate Earth's climate. However, anthropogenic changes can modulate the way these ecosystems process carbon, leading to positive or negative climate feedback effects. I use experiments and monitoring to analyze the effects of anthropogenic drivers on the biogeochemistry of carbon in aquatic environments. 
 
