@@ -13,13 +13,15 @@ keywords:
   - carbon
 ---
 
+Please contact me if you would like a copy of any of the papers referenced below.
+
 [ResearchGate](https://www.researchgate.net/profile/Abigail-Lewis-9) | [ORCID](http://orcid.org/0000-0001-9933-4542) | [Google Scholar](https://scholar.google.com/citations?user=RZ_wNlMAAAAJ)
 
 <i>\* indicates mentored undergraduate student</i>
 
 ## 2026
 <ol reversed start = 30>
-<li><span class="asl">Lewis, A. S. L.</span>, J. R. Holmquist, A. N. Al-Haj, Z. N. Read, R. L. Rich, J. P. Megonigal, and G. L. Noyce. Warming decreases the predictability of methane emissions in a coastal wetland. In press (accepted) at <i>Ecosphere</i>. </li>
+<li><span class="asl">Lewis, A. S. L.</span>, J. R. Holmquist, A. N. Al-Haj, Z. N. Read, R. L. Rich, J. P. Megonigal, and G. L. Noyce. Warming decreases the predictability of methane emissions in a coastal wetland. <i>Ecosphere</i>, 17(5), e70647. [ https://doi.org/10.1002/ecs2.70647](https://doi.org/10.1002/ecs2.70647)</li>
 <br>
 <li><span class="asl">Lewis, A. S. L.</span>, D. C. Richardson, D. W. Howard, C. C. Carey, B. M. Kraemer, Y. Amitai, S. Bansal, E. de Eyto, H-P Grossart, K. K. Hoffman, R. A. Hovel, L. Knoll, I. A. Oleksy, A. B. Santoso, M. Schmid, R. Schwefel, D. Straile, X. Sun, G. A. Weyhenmeyer, W. M. Woelmer, S. Wollrab, and P. Znachor. Seasons and seasonality in lakes: a synthesis amid global change. <i>Limnology and Oceanography Letters</i>, 11(2), e70116. [https://doi.org/10.1002/lol2.70116](https://doi.org/10.1002/lol2.70116)</li> 
 <br>
