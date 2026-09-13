@@ -106,5 +106,5 @@ Please contact me if you would like a copy of any of the papers referenced below
 ## 2017
 
 <ol reversed>
-<li>Lewis, S. E., J. J. Piatt., <span class="asl">A. S. L. Lewis</span>. 2017. Impact of a diet of native or non-native leaves on an amphipod Gammarus pseudolimnaeus. <i>Freshwater Science</i>, 36(4), 739–749. [https://doi.org/10.1086/694855](https://doi.org/10.1086/694855)</li></ol>
+<li>Lewis, S. E., J. J. Piatt., <span class="asl">A. S. L. Lewis</span>. 2017. Impact of a diet of native or non-native leaves on an amphipod <i>Gammarus pseudolimnaeus</i>. <i>Freshwater Science</i>, 36(4), 739–749. [https://doi.org/10.1086/694855](https://doi.org/10.1086/694855)</li></ol>
 <br><br><br>
