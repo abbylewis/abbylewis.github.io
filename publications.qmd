@@ -20,7 +20,9 @@ Please contact me if you would like a copy of any of the papers referenced below
 <i>\* indicates mentored undergraduate student</i>
 
 ## 2026
-<ol reversed start = 31>
+<ol reversed start = 32>
+<li><span class="asl">A. S. L. Lewis</span>, R. L. Rich, G. L. Noyce. Warming Amplifies the Variability of Methane Emissions from a Coastal Wetland. Accepted (in press) at <i>JGR Biogeosciences</i>.</li>
+<br>
 <li>Sjodin, A., G. Stokes, C. Gallagher, M. Javadian, <span class="asl">A. S. L. Lewis</span>, C. Schreiner, L. Super, B. Tuschhoff, A. Willson, M. C. Dietze, J.  MacLachlan, and J. Peters. Toward a standard lexicon for ecological forecasting. Accepted (in press) at <i>Frontiers in Ecology and the Environment</i>.</li>
 <br>
 <li><span class="asl">Lewis, A. S. L.</span>, J. R. Holmquist, A. N. Al-Haj, Z. N. Read, R. L. Rich, J. P. Megonigal, and G. L. Noyce. Warming decreases the predictability of methane emissions in a coastal wetland. <i>Ecosphere</i>, 17(5), e70647. [https://doi.org/10.1002/ecs2.70647](https://doi.org/10.1002/ecs2.70647)</li>
