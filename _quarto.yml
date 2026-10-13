@@ -26,7 +26,7 @@ website:
       - text: "Publications"
         file: publications.qmd
       - text: "CV"
-        file: pdf/ALewisCV_30Mar2026_research.pdf
+        file: pdf/ALewisCV_13Oct2026_cleaned.pdf
         target: blank
       - text: "Join the lab!"
         file: join_the_lab.qmd

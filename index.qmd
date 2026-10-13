@@ -1,6 +1,6 @@
 
 ---
-description: "Personal website for Abigail (Abby) Lewis, a postdoctoral researcher at the Smithsonian Environmental Research Center"
+description: "Personal website for Abigail (Abby) Lewis, a research associate at the Smithsonian Environmental Research Center"
 image: "images/marsh_square.jpg"
 title-block-style: none
 ---
