@@ -20,7 +20,7 @@ Please contact me if you would like a copy of any of the papers referenced below
 <i>\* indicates mentored undergraduate student</i>
 
 ## 2026
-<ol reversed start = 34>
+<ol reversed start = 35>
 <li><span class="asl">Lewis, A. S. L.</span>, J. S. Rabaey, K. Attermeyer, P. Aurich, S. Bansal, B. L. Bertolet, I. Bussmann, S. B. Cadieux, E. Calamita, C. C. Carey, C. Cillero, F. Clayer, T. A. Davidson, B. R. Deemer, B. A. Denfeld, W. Eckert, P. Ford, A. Gorsky, N. A. Griffiths, H-P. Grossart, D. P. Hamilton, M. A. Holgerson, B. J. Huser, J. Jansen, S. E. Jones, S. Juutinen, P. Kortelainen, M. Koschorreck, T. Kragh, A. Laas, T. Larmola, I. Laurion, M. F. Lehmann, L. Liu, P. J. Martikainen, C. Ordóñez, M. Peacock, R. M. Pilla, A. B. Santoso, C. J. Schubert, A. Sepulveda-Jauregui, B. S. Sherman, J. S. Sø, K. J. Stenehjem, K. J. Stenehjem, K. E. D. Strock, K. Wendt-Potthoff, G. A. Weyhenmeyer, and P. Znachor. 2026. Drivers of methane and carbon dioxide concentrations in the surface and bottom waters of 522 lakes worldwide. Accepted (in press) at <i>Global Biogeochemical Cycles</i>.
 </li>
 <br>
